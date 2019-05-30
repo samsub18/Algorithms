@@ -3,7 +3,7 @@
 #include <time.h>
 
 
-int gcd(int a , int b); // Euclids method
+int gcd(int a , int b); // Euclids method is awesome
 
 int gcd_2(int a, int b); // Method 2 : Decrementing the minimum
 
